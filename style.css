@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgreen;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+input {
+  display: block;
+  margin: auto;
+  width: 200px;
+  height: 40px;
+}
+#title {
+  margin: auto;
+  text-align: center;
+  width: 300px;
+  border-radius: 25px;
+  border-style: dotted;
+  font-size: 35;
+}
+.directions {
+  margin: auto;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: royalblue;
+  font-size: 20;
+  padding: 5px;
+}
