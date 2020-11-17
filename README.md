@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# PLINKO
+A satisfying simulation of balls falling down. You can adjust the values if you want
